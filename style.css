@@ -621,6 +621,10 @@ footer .copyright {
 
 @media(max-width: 400px) {
 
+    header {
+        height: 81vh;
+    }
+    
     nav {
         padding: 0 19px;
         height: 50px;
@@ -768,4 +772,5 @@ footer .copyright {
         font-size: 10px;
     }    
     
+
 }
